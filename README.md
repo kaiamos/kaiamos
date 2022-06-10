@@ -1,10 +1,8 @@
-### Hi I am amos 👋
+### Hey I am amos 👋
 ![](https://github-readme-stats.vercel.app/api?username=kaiamos)
-
-**kaiamos/kaiamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<hr/>
+<div align="center"> <img src="https://metrics.lecoq.io/kaiamos?template=classic&config.timezone=Asia%2FShanghai"> </div>
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
